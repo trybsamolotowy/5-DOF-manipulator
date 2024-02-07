@@ -3,7 +3,9 @@ https://petercorke.com/toolboxes/robotics-toolbox/?fbclid=IwAR0GQpT3fsI1sXxLDKNd
 so before running this code you have to addpath rtb common smtb
 
 Model:
+
 ![image](https://github.com/julia340/5-DOF-manipulator/assets/152611681/c979fa53-da6d-489c-9c53-ddbdfafc435c)
+
 
 ![image](https://github.com/julia340/5-DOF-manipulator/assets/152611681/1dd4921f-16a6-4c24-9cc1-a676a9a24ce6)
 
